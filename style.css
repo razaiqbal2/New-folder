@@ -41,3 +41,22 @@ body{
     width: auto;
     height: 100vh;
 }
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #252525;
+    font-family: "Baloo Tamma 2", cursive;
+}
+
+#socialmedia{
+    background-color: rgba(0, 0, 0, 0.758);
+}
+.media_link{
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid rgba(255, 255, 0, 0.539);
+    border-radius: 0.5rem;
+}
